@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Sacramento&display=swap');
+
+body{
+  text-align: center;
+  margin: 0;
+}
+.big_text{
+  font-family: Sacramento;
+  font-size: 5.5rem;
+}
+
+.profile_photo{
+  height: 200px;
+  width: 300px;
+  border-radius: 100%;
+  opacity: 0.8;
+}
+.top_container{
+  padding-top: 30px;
+  background-color: #ccf2f4;
+  color: #66BFBF;
+}
+.bottom_container{
+  background-color: #66BFBF;
+}
+.mountain{
+  background-color: #ccf2f4;
+  opacity: 0.9;
+}
